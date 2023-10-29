@@ -1,0 +1,26 @@
+.fejlec{
+    background-image: url(images/hero.jpg);
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+}
+.tarolo{
+width: 800px;
+margin: auto;
+}
+.menu ul{
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(170, 86, 18);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.menu ul li{
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(170, 86, 18);
+}
+.gomb{
+    list-style-type: none;
+    color: white;
+}

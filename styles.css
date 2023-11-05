@@ -3,7 +3,7 @@
     height: 100vh;
     text-align: center;
     background-size: cover;
-    padding: 10px ;
+    padding: 10px;
 }
 .fejlec h1 {
     color: white;
@@ -27,8 +27,10 @@
     list-style-type: none;
 }
 .gomb:hover {
-    color: black;
     background-color: white;
+}
+.gomb:hover a {
+    color: black;
 }
 .gomb2{
     text-decoration: none;
@@ -43,8 +45,10 @@
     padding: 15px;
 }
 .gomb2:hover {
-    color: black;
     background-color: white;
+}
+.gomb2:hover a {
+    color: black;
 }
 .menu ul {
     list-style-type: none;

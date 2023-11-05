@@ -136,6 +136,7 @@ a {
 h1 {
     margin: auto;
     font-size: 30px;
+    padding: 15px;
 }
 h2 {
     margin: 20px;
